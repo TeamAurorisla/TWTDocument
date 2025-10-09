@@ -29,7 +29,7 @@ import { withSidebar } from 'vitepress-sidebar';
 // })
 
 const vitePressOptions = {
-  title: "航迹：潮汐绘卷 整合包开发文档",
+  title: "航迹：潮汐绘卷 开发文档",
   description: "航迹：潮汐绘卷 The Weaving Tides 整合包开发文档",
   base: '/TWTDocument/',
 

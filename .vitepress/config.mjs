@@ -37,7 +37,7 @@ const vitePressOptions = {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '开发指南', link: '/开发指南/1. 文档要求.md' }
+      { text: '开发指南', link: '/开发指南/开发环境的部署与管理.md' }
     ],
 
     sidebar: [

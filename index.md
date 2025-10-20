@@ -12,7 +12,7 @@ hero:
       link: /项目概览
     - theme: alt
       text: 开发指南
-      link: /开发指南/1. 文档要求.md
+      link: /开发指南/开发环境的部署与管理.md
 
 features:
   - title: Feature A

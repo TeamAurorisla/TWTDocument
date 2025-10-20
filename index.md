@@ -11,8 +11,8 @@ hero:
       text: 项目概览
       link: /项目概览
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 开发指南
+      link: /开发指南/1. 文档要求.md
 
 features:
   - title: Feature A

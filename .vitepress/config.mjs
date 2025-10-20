@@ -36,8 +36,8 @@ const vitePressOptions = {
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Example', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '开发指南', link: '/开发指南/1. 文档要求.md' }
     ],
 
     sidebar: [
